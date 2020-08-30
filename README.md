@@ -1,6 +1,6 @@
 # Kanboard Link
 
-This is a [DokuWiki](https://www.dokuwiki.org/) plugin. It extends the Wiki syntax and allows to insert links to Kanboard tasks (based on their ID) more easily.
+This is a [DokuWiki](https://www.dokuwiki.org/) plugin. It extends the Wiki syntax and allows to insert links to [Kanboard](https://kanboard.org/) tasks (based on their ID) more easily.
 
 Example:
 
