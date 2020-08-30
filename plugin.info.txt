@@ -1,0 +1,7 @@
+base   kanboardlink
+author Till Schlüter
+email  mail@tschlueter.eu
+date   2020-08-30
+name   Kanboard Link
+desc   Wiki syntax extension and toolbar button for adding links to Kanboard tasks
+url    https://github.com/rfde/dokuwiki-plugin-kanboardlink
